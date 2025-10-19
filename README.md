@@ -1,3 +1,3 @@
-# Nasa_Hackathon
+# NASA Hackathon
 
 This hackathon happened at Nirma College.
